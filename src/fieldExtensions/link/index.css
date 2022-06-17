@@ -1,0 +1,14 @@
+.cs-toggle-switch-external > div:first-child {
+  /* color: #647696; */
+  color: #475161;
+  display: inline-block;
+  font-family: Inter;
+  font-size: 0.75rem;
+  font-weight: 600;
+  line-height: 1.5;
+  margin: 0 0.625rem 0.125rem !important;
+}
+
+.TextInput--full {
+  padding-right: 20px;
+}
